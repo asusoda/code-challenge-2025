@@ -31,12 +31,7 @@ export default function SponsorsSection2() {
   const sponsors: SponsorsGroup = {
     //emerald: [{ src: "/sponsors_logos/Devfolio_Logo-White.svg", alt: "LOGO" }],
     platinum: [    
-      {
-      src: "/sponsors_logos/perplexity.svg",
-      alt: "PERPLEXITY LOGO",
-      link: "https://www.perplexity.ai",
-      class: "scale-[0.6] md:scale-[0.6] ",
-    },
+     
       {
       src: "/sponsors_logos/amazon.svg",
       alt: "AMAZON LOGO",
@@ -95,6 +90,12 @@ export default function SponsorsSection2() {
       },
     ],
     event:[
+      {
+        src: "/sponsors_logos/perplexity.svg",
+        alt: "PERPLEXITY LOGO",
+        link: "https://www.perplexity.ai",
+        class: "scale-[0.6] md:scale-[0.6] ",
+      },
       {
         src : "/sponsors_logos/Quant.png",
         alt: "QUANT QUESTIONS LOGO",
