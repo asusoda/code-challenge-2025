@@ -59,7 +59,7 @@ const Navbar = (activeSection: any) => {
           <Image
             src="/assets/images/hackerdevils.png"
             alt="HackerDevils"
-            className="rounded-3xl"
+            className="md:w-[50px] md:h-[50px] w-[45px]  rounded-3xl"
             width={50}
             height={50}
           />
