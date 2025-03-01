@@ -41,54 +41,11 @@ const CodeChallengeFaq = [
     ),
   },
   {
-    question: <>How are submissions judged?</>,
-    answer: (
-      <>
-        Solutions evaluated on:<br />
-        • Test case success rate (primary)<br />
-        • Memory/time efficiency<br />
-        • Last submission timestamp for ties
-      </>
-    ),
-  },
-  {
     question: <>What's the competition format?</>,
     answer: (
       <>
         3-hour in-person event with proctored environment. Problems increase in 
         difficulty with points awarded per completed challenge.
-      </>
-    ),
-  },
-  {
-    question: <>What prizes are available?</>,
-    answer: (
-      <>
-        Separate undergraduate/graduate pools with:<br /> 
-        • Nintendo Switch/Meta Quest/Beats headphones<br />
-        • Special categories for lowerclassmen and unique language use<br />
-        • Gift cards for various winners
-      </>
-    ),
-  },
-  {
-    question: <>What are the prohibited actions?</>,
-    answer: (
-      <>
-        Strictly forbidden:<br />
-        • Collaboration or external help<br />
-        • Plagiarism/pre-written code<br />
-        • AI-generated solutions<br />
-        • Multiple accounts usage
-      </>
-    ),
-  },
-  {
-    question: <>What time does it start?</>,
-    answer: (
-      <>
-        Saturday, March 1 from 11:00 AM to 6:00 PM. Registration closes at start time - 
-        arrive early for check-in.
       </>
     ),
   },
